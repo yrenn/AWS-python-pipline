@@ -1,8 +1,8 @@
 # AWS python pipline design
 
 ## Introduction
-
-This project generates weekly data job to use python move and process raw data in Xetra S3 Bucket to Target S3 Bucket.
+Xetra (Market Identifier Code: XETR) is a trading venue operated by the Frankfurt Stock Exchange based in Frankfurt, Germany. In 2015, 90 percent of all trading in shares at all German exchanges was transacted through the Xetra trading venue. With regard to DAX listings, Xetra has 60 per cent market share throughout Europe. The prices on Xetra serve as the basis for calculating the DAX, the best-known German share index. 
+This project generates weekly data job to use python move and process raw data in Xetra S3 Bucket and generate the report file to Target S3 Bucket.
 
 ## Overview
 - Set up a virtual environment and AWS
@@ -35,3 +35,7 @@ This project generates weekly data job to use python move and process raw data i
  
  ### Performance tuning with profiling and timing
  using memory_profiler to improve performance 
+
+
+## lesson learned
+ 
