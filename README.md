@@ -38,4 +38,6 @@ This project generates weekly data job to use python move and process raw data i
 
 
 ## lesson learned
- 
+ meta file
+ class design
+ logging
