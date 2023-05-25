@@ -51,6 +51,7 @@ This project generates weekly data job to use python move and process raw data i
  
    <img src= "images/profiling.png">
 
+
 ## lesson learned
-The whole functional approach and OOP Design design of the project, especially for the control and optimize code.
-For example, the project uses logging and configure file (yaml) to avoid requirement and environment changes to recode and retest, meta file for job control to avoid repeat reports being created and memory_profiler to show how often and for how long various parts of the program are executed.
+
+Apart from learning how to design and implement the project using functional and OOP programming, I learned some details to control and optimize the code. For example, I can use logging and configure files (yaml) to avoid requirements and environment changes to recode and retest. Secondly, using a meta file for job control can avoid repeat reports being created. Finally, using linters and memory profiler can clean code and improve the performance.
