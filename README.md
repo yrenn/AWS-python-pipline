@@ -1,4 +1,4 @@
-# AWS python pipeline design
+# DE_ETL_Pipeline_Design_AWS
 
 ## Introduction
 Xetra (Market Identifier Code: XETR) is a trading venue operated by the Frankfurt Stock Exchange based in Frankfurt, Germany. In 2015, 90 percent of all trading in shares at all German exchanges was transacted through the Xetra trading venue. With regard to DAX listings, Xetra has a 60 percent market share throughout Europe. The prices on Xetra serve as the basis for calculating the DAX, the best-known German share index. 
